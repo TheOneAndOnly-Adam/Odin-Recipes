@@ -1,2 +1,2 @@
 # Odin-Recipes
-Delicious recipis fit for Odin himself!
+Delicious recipes fit for Odin himself!
